@@ -1,5 +1,8 @@
 # blockchain-resources
 
+## IBM Blockchain 101
+https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
+
 ## IBM blockchain marbles demo
 https://github.com/IBM-Blockchain/marbles
 
